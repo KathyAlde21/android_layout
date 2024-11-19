@@ -2,4 +2,4 @@
 
 Proyecto realizado con Frame Layout:
 
-<img src="./assets/image/" alt="">
+<img src="./assets/image/layout-4.PNG" alt="">
